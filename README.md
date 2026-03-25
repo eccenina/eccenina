@@ -36,7 +36,3 @@ A personal site with built-in engineering tools.
 | APPRECIATE Website 2026 | 🔨 In Progress | [tupappreciate.com](https://tupappreciate.com) |
 | Brodkast ng Talino 2026 | 🔨 In Progress | WIP |
 
----
-<!-- Add your socials or contact links here -->
-
-*More projects coming soon — watch this space!* ⭐
