@@ -1,4 +1,4 @@
-# Hi there! 👋
+### eccenina
 
 > Trying to be more active in coding — one commit at a time.
 
