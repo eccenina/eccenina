@@ -2,13 +2,11 @@
 
 > Trying to be more active in coding — one commit at a time.
 
----
 
 ## 🙋 About Me
 
 I'm an engineering student taking on leadership and technical roles in my org, while slowly building things I actually want to use. Currently leveling up my dev skills through event websites and personal projects.
 
----
 
 ## 🏛️ Positions & Roles
 
@@ -18,7 +16,6 @@ I'm an engineering student taking on leadership and technical roles in my org, w
 | APPRECIATE | WebApp Committee Co-Head → Head | 2025 → 2026 |
 | Brodkast ng Talino | Technical Committee Head & WebApp Co-Head | 2025 → 2026 |
 
----
 
 ## 🚀 Projects
 
