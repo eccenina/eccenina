@@ -30,6 +30,6 @@ A personal site with built-in engineering tools.
 | Project | Status | Links |
 |---|---|---|
 | APPRECIATE Website 2025 | Done | [tupappreciate.com](https://tupappreciate.com) |
-| APPRECIATE Website 2026 | In Progress | [tupappreciate.com](https://tupappreciate.com) |
+| APPRECIATE Website 2026 | Done | [tupappreciate.com](https://tupappreciate.com) |
 | Brodkast ng Talino 2026 | Done | [brodkast-ng-talino.com](https://brodkast-ng-talino.com) |
 
